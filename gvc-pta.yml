@@ -1,0 +1,15 @@
+name: gvc-pta
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - seaborn
+  - graph-tool
+  - openpyxl
+  - pyarrow
+  - pip:
+    - pyreadr
