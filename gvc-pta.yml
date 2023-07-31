@@ -13,3 +13,5 @@ dependencies:
   - pyarrow
   - pip:
     - pyreadr
+    - requests
+    - pillow
