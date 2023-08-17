@@ -6,6 +6,7 @@ libraries = c("readxl",
               "tidyverse",
               "ggridges",
               "ggpubr",
+              "dplyr",
               "plyr", 
               "arrow", 
               "scales")
