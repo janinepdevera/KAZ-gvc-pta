@@ -433,7 +433,7 @@ ggsave(filename="fig4.6.png", plot=fig4.6, device="png", path="../../charts", wi
 #ggsave("SCA.pdf", spec, device = "pdf", width = 18, height = 15)
 ```
 
-### 2. Models: PPML
+### 6. Models: PPML
 ```{r}
 # generate combinations of independent variables
 combn <- list()
